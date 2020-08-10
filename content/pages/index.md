@@ -63,7 +63,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Want to Contribute ?
-    subtitle: 'Willing to contribute a resourcefull article to the community, for free?'
+    subtitle: 'Willing to contribute a resourcefull article to the community, for free ?'
     actions:
       - label: Learn More
         url: /features
