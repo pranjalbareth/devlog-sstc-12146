@@ -31,7 +31,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-      - title: Django Party - April 2020
+      - title: Django Party - April 2021
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
