@@ -63,9 +63,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Want to Contribute ?
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'If you are willing to '
     actions:
       - label: Learn More
         url: /features
