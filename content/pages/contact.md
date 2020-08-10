@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: Join us
     align: center
   - type: contact_section
 layout: advanced
