@@ -5,7 +5,7 @@ sections:
     title: Developers Log - SSTC
     subtitle: 'Official Technical Bog of SSTC, powered by Developers Community SSTC'
     actions:
-      - label: Learn More
+      - label: Explore
         url: /features
         style: primary
     align: left
