@@ -1,5 +1,5 @@
 ---
-title: 'What is Competitive Programming ? And why you should '
+title: What is Competitive Programming ?
 date: '2020-05-28'
 author: content/data/team/gordon-norman.yaml
 categories:
