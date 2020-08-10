@@ -68,11 +68,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        type: action
     has_background: true
     background_color: gray
 layout: advanced
