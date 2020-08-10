@@ -1,5 +1,5 @@
 ---
-title: 'Django or Node.js, Which one should you choose '
+title: 'Django or Node.js, Which one should you choose ?'
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
