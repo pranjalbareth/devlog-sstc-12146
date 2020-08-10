@@ -1,5 +1,5 @@
 ---
-title: College News
+title: Campus News
 layout: page
 ---
 
