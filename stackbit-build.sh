@@ -4,8 +4,8 @@ set -e
 set -o pipefail
 set -v
 
-curl -s -X POST __STACKBIT_WEBHOOK_URL__/ssgbuild > /dev/null
+curl -s -X POST https://api.stackbit.com/project/5f31214640a5d7001c92e10e/webhook/build/ssgbuild > /dev/null
 
 next build && next export
 
-curl -s -X POST __STACKBIT_WEBHOOK_URL__/publish > /dev/null
+curl -s -X POST https://api.stackbit.com/project/5f31214640a5d7001c92e10e/webhook/build/publish > /dev/null
