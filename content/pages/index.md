@@ -65,7 +65,7 @@ sections:
     title: Want to Contribute ?
     subtitle: >-
       If you are willing to contribute a resourcefull article to the community
-      for free
+      for free 
     actions:
       - label: Learn More
         url: /features
