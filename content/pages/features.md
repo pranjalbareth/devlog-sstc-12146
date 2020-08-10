@@ -19,7 +19,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: 'Feature '
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
