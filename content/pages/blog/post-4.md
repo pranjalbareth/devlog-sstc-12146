@@ -1,5 +1,5 @@
 ---
-title: D
+title: Djando ==
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
