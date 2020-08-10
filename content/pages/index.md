@@ -66,7 +66,7 @@ sections:
     subtitle: 'Willing to contribute a resourcefull article to the community, for free ?'
     actions:
       - label: Join us
-        url: '/contact '
+        url: /features
         style: primary
     has_background: true
     background_color: gray
