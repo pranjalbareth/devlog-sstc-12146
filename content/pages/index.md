@@ -63,7 +63,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Want to Contribute ?
-    subtitle: 'willing to contribute a '
+    subtitle: 'Willing to contribute a '
     actions:
       - label: Learn More
         url: /features
