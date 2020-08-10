@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Developers Log - SSTC
-    subtitle: 'Official Technical Bog of SSTC, powered by Developers Community '
+    subtitle: 'Official Technical Bog of SSTC, powered by Developers Community SSTC'
     actions:
       - label: Learn More
         url: /features
