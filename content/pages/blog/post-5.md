@@ -1,5 +1,5 @@
 ---
-title: 'React-Native vs Flutter '
+title: 'React-Native vs Flutter , Which one is better?'
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
