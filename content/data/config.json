@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Starter",
+        "title": "",
         "has_nav": true,
         "nav_links": [
             {
