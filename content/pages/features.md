@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: 'Python Summer Program '
+      - title: Python Summer Program 2020
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
