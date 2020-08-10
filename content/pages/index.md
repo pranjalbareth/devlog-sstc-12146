@@ -65,7 +65,7 @@ sections:
     title: Want to Contribute ?
     subtitle: 'Willing to contribute a resourcefull article to the community, for free ?'
     actions:
-      - label: Join Us
+      - label: Join us
         url: /features
         style: primary
     has_background: true
