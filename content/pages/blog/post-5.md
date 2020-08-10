@@ -1,5 +1,5 @@
 ---
-title: 'Learn '
+title: 'Learn React.js '
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
