@@ -1,5 +1,5 @@
 ---
-title: React-Native or Flutter ?
+title: React-Native  Flutter ?
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
