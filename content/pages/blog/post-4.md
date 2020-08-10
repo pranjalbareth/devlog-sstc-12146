@@ -1,5 +1,5 @@
 ---
-title: Django or Node. js ?
+title: Django or Node.
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
