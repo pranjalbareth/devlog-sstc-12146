@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: Featured Blogs
     features:
-      - title: Feature 1
+      - title: Python Summer Program 2020
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
