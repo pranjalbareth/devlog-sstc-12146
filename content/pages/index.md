@@ -33,7 +33,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: 'JS '
+      - title: 'JS Jalwa '
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
