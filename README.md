@@ -1,6 +1,6 @@
-# Developers Community Blog v1
+# Developers Community Blog Prototype v1
 
-A Technical Blog Prototype of SSTC powered by Developers Community
+A Technical Blog of SSTC powered by Developers Community
 .
 
 # Developing Site Locally
