@@ -47,9 +47,10 @@ sections:
             style: secondary
       - title: Django Party - April 2021
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Developers Community is going to organise a 'Django party', for the
+          first time in the campus. It will include everything from
+          "installation party" to "Deployement" and everything else, with the
+          help of highly skilled & experienced seniors & mentors.
         align: left
         image: images/feature.svg
         image_position: right
