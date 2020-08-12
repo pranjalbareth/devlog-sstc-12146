@@ -15,7 +15,7 @@ sections:
     background:
       background_color: blue
       background_image: images/ultra-onion.png
-      background_image_opacity: 50
+      background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
