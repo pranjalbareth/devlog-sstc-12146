@@ -11,8 +11,7 @@ image: images/3.png
 excerpt: >-
   What is Competitive Programming ? Why is everyone doing it ? Why it's so
   hyped? We have included everything from getting started, helpful tips,
-  articles & list of toolsmay help you in competition. Form CODEJAM, CODEVITA,
-  Weekly Matches to Single Round Matches (SRMs), everything.
+  articles & list of tools i.e. may help you in competition.
 layout: post
 ---
 
