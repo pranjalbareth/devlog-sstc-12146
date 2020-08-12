@@ -9,9 +9,9 @@ tags:
   - Netlify
 image: images/5.png
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Do you want to develop apps more quickly? And to reduce costs with
+  cross-platform development – but you’re not sure which technology to choose?
+  Then this article is just for you !
 layout: post
 ---
 

@@ -10,9 +10,9 @@ tags:
   - Sourcebit
 image: images/4.png
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  Node JS and Django both are quite powerful technologies for building versatile
+  web and mobile applications with an excellent UI. Both are open to all and
+  free. And both have huge web community.
 layout: post
 ---
 
