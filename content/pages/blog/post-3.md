@@ -10,9 +10,9 @@ tags:
 image: images/3.png
 excerpt: >-
   What is Competitive Programming ? Why is everyone doing it ? Why it's so hyped
-  track on Topcoder. We have included everything surrounding Single Round
-  Matches (SRMs). helpful tips and articles, as well as a list of tools that may
-  help you in competition.
+  track on Topcoder. We have included everything from getting started, helpful
+  tips, articles & list of toolsmay help you in competition. Form CODEJAM,
+  CODEVITA, Weekly Matches to Single Round Matches (SRMs), everything.
 layout: post
 ---
 
