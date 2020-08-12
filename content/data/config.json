@@ -75,10 +75,10 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Developers Community SSTC  |  &copy; Stackbit-Starter. All rights reserved.",
+        "content": "&copy; Developers Community SSTC  |  &copy; Stackbit-Starter.  All rights reserved. ",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "Made with Stackbit ",
                 "url": "https://www.stackbit.com",
                 "style": "link",
                 "new_window": true

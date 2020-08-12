@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Developers Log - SSTC
+    title: Developers Log  SSTC
     subtitle: 'Official Technical Bog of SSTC, powered by Developers Community'
     actions:
       - label: Explore
@@ -14,7 +14,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/ultra-octopus.png
+      background_image: images/ultra-onion.png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
