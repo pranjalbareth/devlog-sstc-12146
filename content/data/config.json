@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Join Us",
                 "url": "/contact",
                 "style": "primary"
             }
@@ -59,8 +59,7 @@
                 "label": "Instagram",
                 "url": "www.instagram.com/pranjal_bareth",
                 "style": "link",
-                "new_window": false,
-                "type": "action"
+                "new_window": true
             },
             {
                 "label": "GitHub",
