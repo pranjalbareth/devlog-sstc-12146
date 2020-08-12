@@ -1,12 +1,12 @@
 // Colors
 // Base
-$color-text:                   #536171 !default;
-$color-heading:                #282f36 !default;
+$color-text:                   #d1d1d1 !default; //#536171
+$color-heading:                #d6d6d6 !default; //#282f36
 $color-meta:                   #8594a5 !default;
-$color-bg:                     #fff !default;
-$color-bg-alt:                 #f5f6f7 !default;
+$color-bg:                     #000 !default;
+$color-bg-alt:                 #151515 !default; //#f5f6f7
 $color-bg-overlay:             rgba(245,246,247,.8) !default;
-$color-border:                 #e1e4e9 !default;
+$color-border:                 #1d1d1d !default; //#e1e4e9
 
 // Links
 $color-link:                   #28aaff !default;
@@ -16,8 +16,8 @@ $color-blockquote:             #282f36 !default;
 $color-blockquote-border:      #28aaff !default;
 
 // Buttons
-$color-btn:                    #fff !default;
-$color-btn-bg:                 #28aaff !default;
+$color-btn:                    #28aaff !default; //fff
+$color-btn-bg:                 #000 !default; //#28aaff
 $color-btn-border:             #28aaff !default;
 $color-btn-alt:                #28aaff !default;
 $color-btn-alt-bg:             transparent !default;
@@ -25,14 +25,14 @@ $color-btn-alt-border:         #28aaff !default;
 $color-btn-clear:              #282f36 !default;
 
 // Navigation
-$color-nav-link:               #536171 !default;
+$color-nav-link:               #d6d6d6 !default; //#536171
 $color-nav-link-hover:         #28aaff !default;
 $color-nav-link-active:        #28aaff !default;
 
 // Inverse (light text on dark background)
 $color-inverse-text:           #f5f6f7 !default;
 $color-inverse-heading:        #fff !default;
-$color-inverse-bg:             #005bc4 !default;
+$color-inverse-bg:             #000000 !default; //#005bc4
 $color-inverse-link:           #f5f6f7 !default;
 $color-inverse-btn:            #fff !default;
 $color-inverse-btn-bg:         #28aaff !default;
