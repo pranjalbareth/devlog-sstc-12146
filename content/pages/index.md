@@ -35,9 +35,9 @@ sections:
             style: secondary
       - title: 'Flutter Burst - Begginers Event  '
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Fellow Mobile app developers, get your seat belts tight. Developers
+          Community is presenting a Mobile only Development Event, with Google's
+          Flutter. Get ready to Build.Learn.Grow
         align: left
         image: images/feature.svg
         image_position: left
