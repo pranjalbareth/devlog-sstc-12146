@@ -9,7 +9,7 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/hero.jpg
+    image: images/Picture1.png
     image_position: right
     has_background: true
     background:
