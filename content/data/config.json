@@ -58,7 +58,7 @@
             {
                 "label": "Instagram",
                 "url": "www.instagram.com/pranjal_bareth",
-                "style": "secondary",
+                "style": "link",
                 "new_window": false,
                 "type": "action"
             },
