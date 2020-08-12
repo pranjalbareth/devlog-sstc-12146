@@ -9,12 +9,12 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/hero.svg
+    image: images/Picture1.png
     image_position: right
     has_background: true
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_image: images/ultra-octopus.png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
