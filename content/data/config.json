@@ -52,26 +52,26 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/pranjalbareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "www.instagram.com.pranjal_bareth",
-                "style": "link",
+                "url": "www.instagram.com/pranjal_bareth",
+                "style": "secondary",
                 "new_window": false,
                 "type": "action"
             },
             {
                 "label": "GitHub",
                 "url": "https://github.com/pranjalbareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/pranjal-bareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             }
         ],
