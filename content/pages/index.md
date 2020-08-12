@@ -23,9 +23,9 @@ sections:
     features:
       - title: Python Summer Program 2020
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Developers Community is here, with the all New Python Summer Project
+          2020, first time in our Campus. So, it's all to get ready. Calling out
+          all Pythonistas & Begginers to Join us this Summer.
         align: left
         image: images/feature.svg
         image_position: right
@@ -35,9 +35,9 @@ sections:
             style: secondary
       - title: 'Flutter Burst - Begginers Event  '
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Beginners & Fellow Mobile app developers, get your seat belts tight.
+          Developers Community is presenting a Mobile only Development Event,
+          with Google's Flutter. Get ready to Build.Learn.Grow
         align: left
         image: images/feature.svg
         image_position: left
