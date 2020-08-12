@@ -35,7 +35,7 @@ sections:
             style: secondary
       - title: 'Flutter Burst - Begginers Event  '
         content: >-
-          Fellow Mobile app developers & Beginners, get your seat belts tight.
+          Beginners & Fellow Mobile app developers, get your seat belts tight.
           Developers Community is presenting a Mobile only Development Event,
           with Google's Flutter. Get ready to Build.Learn.Grow
         align: left
