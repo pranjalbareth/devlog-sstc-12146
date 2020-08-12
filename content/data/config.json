@@ -52,7 +52,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/pranjalbareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             },
             {
