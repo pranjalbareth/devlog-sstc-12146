@@ -11,9 +11,8 @@ image: images/3.png
 excerpt: >-
   What is Competitive Programming ? Why is everyone doing it ? Why it's so hyped
   track on Topcoder. We have included everything surrounding Single Round
-  Matches (SRMs). On this page you will find a getting started guide, helpful
-  tips and articles, as well as a list of tools that may help you in
-  competition.
+  Matches (SRMs). On this page you will find a get started guide, helpful tips
+  and articles, as well as a list of tools that may help you in competition.
 layout: post
 ---
 
