@@ -9,11 +9,10 @@ tags:
   - JAMstack
 image: images/3.png
 excerpt: >-
-  This is your one stop shop for all things related to the Competitive
-  Programming track on Topcoder. This primarily includes everything surrounding
-  Single Round Matches (SRMs). On this page you will find a getting started
-  guide, helpful tips and articles, as well as a list of tools that may help you
-  in competitions.
+  What is Competitive Programming track on Topcoder. This primarily includes
+  everything surrounding Single Round Matches (SRMs). On this page you will find
+  a getting started guide, helpful tips and articles, as well as a list of tools
+  that may help you in competitions.
 layout: post
 ---
 
