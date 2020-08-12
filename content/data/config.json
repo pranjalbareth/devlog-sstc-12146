@@ -71,7 +71,7 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/pranjal-bareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             }
         ],
