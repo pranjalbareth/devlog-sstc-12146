@@ -9,7 +9,11 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/4.png
-excerpt: ''
+excerpt: >-
+  Node JS and Django both are quite powerful technologies for building versatile
+  web and mobile applications with an excellent user interface. Both are open to
+  all and come for free without any license required. They are used in a number
+  of big projects and have a huge web community.
 layout: post
 ---
 
