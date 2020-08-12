@@ -9,10 +9,11 @@ tags:
   - JAMstack
 image: images/3.png
 excerpt: >-
-  What is Competitive Programming ? Why is everyone  track on Topcoder. This
-  primarily includes everything surrounding Single Round Matches (SRMs). On this
-  page you will find a getting started guide, helpful tips and articles, as well
-  as a list of tools that may help you in competitions.
+  What is Competitive Programming ? Why is everyone doing it ? Why most  track
+  on Topcoder. This primarily includes everything surrounding Single Round
+  Matches (SRMs). On this page you will find a getting started guide, helpful
+  tips and articles, as well as a list of tools that may help you in
+  competitions.
 layout: post
 ---
 
