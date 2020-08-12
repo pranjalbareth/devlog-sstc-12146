@@ -65,7 +65,7 @@
             {
                 "label": "GitHub",
                 "url": "https://github.com/pranjalbareth",
-                "style": "link",
+                "style": "secondary",
                 "new_window": true
             },
             {
